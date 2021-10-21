@@ -1,12 +1,12 @@
-## Application d'entrainement
+# Application d'entrainement
 Je m'entraine avec les outils de Dev
-# Git Extension for windows
+## Git Extension for windows
 Outil de versionning
-# Visual Studio
+## Visual Studio
 Editeur MS
-# Angular
+## Angular
 Framework frontend SP
-# Angular Material
+## Angular Material
 Framework CSS
-# .Net Framework
+## .Net Framework
 Framework MS
